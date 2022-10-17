@@ -3,8 +3,8 @@ import os
 from sqlalchemy import create_engine
 
 hostname = '34.170.157.57'
-os.environ['mysql_username'] = 'fauziak_user'
-os.environ['mysql_password'] = 'Mercy2020'
+os.environ['mysql_username'] = 
+os.environ['mysql_password'] = 
 username = os.environ.get('mysql_username')
 password = os.environ.get ('mysql_password')
 print(username)
