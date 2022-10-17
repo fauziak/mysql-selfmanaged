@@ -1,5 +1,3 @@
 Running into this error on GCP:
 
 pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '34.170.157.57' (timed out)
-
-/var/folders/5_/rgf1cyc939xgxsgb2ws76l2h0000gn/T/TemporaryItems/NSIRD_screencaptureui_Vpx55j/Screen Shot 2022-10-16 at 7.55.06 PM.png
